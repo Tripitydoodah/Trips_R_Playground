@@ -1,0 +1,8 @@
+git config --global user.name "Trip Campbell"
+git config --global user.email w.c.campbell.iii@gmail.com
+git config --list
+mkdir Trips_R_Playground
+cd Trips_R_Playground
+git init
+git remote add origin https://github.com/Tripitydoodah/Trips_R_Playground.git
+git clone https://github.com/Tripitydoodah/MustangMadness
