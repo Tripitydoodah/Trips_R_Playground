@@ -1,0 +1,7 @@
+,Shape,Length,Width,Diagonal,Units
+G5,Rectangle,1100,1300,1702.938637,mm
+G5H,Rectangle,650,1100,1277.693234,mm
+G6,Rectangle,1500,1800,2343.074903,mm
+G6H,Rectangle,900,1500,1749.285568,mm
+G8,Rectangle,1250,2200,2530.316186,mm
+G8H,Rectangle,1100,1250,1665.082581,mm
